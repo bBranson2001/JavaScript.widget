@@ -23,7 +23,7 @@ After installing the script:
 
 Customization
 
-You can customize the facts displayed by the widget. Edit the Changing values.txt file, which contains the list of facts used by the widget, to add your own unique facts.
+You can customize the facts displayed font color, font type, and font size by editing the values listed in Changing values.txt file branch, which contains information for custom colours and fonts. 
 
 Contributing
 
