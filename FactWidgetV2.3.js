@@ -10,8 +10,8 @@
     Ideal for use in widget environments like Scriptable for iOS.
 
     License:
-    Released under the MIT License. 
-    Full license: https://opensource.org/licenses/MIT
+    Released under the GNU GENERAL PUBLIC License. 
+    Full license: 
 */
 
 const config = {
