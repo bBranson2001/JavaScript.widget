@@ -1,0 +1,19 @@
+
+    textColor: "#39FF14", // Neon green
+    backgroundColor: "#000000", // Black
+    fontName: "Menlo", // Retro-style, bold font
+    fontSize: 16,
+
+
+To change font color alter line 19  text color "#YourHexValue"
+
+Similar Steps can used to change backround colour on line 20 backgroundColor: "YourhexValue"
+ 
+Hex Values can be found at https://www.w3schools.com/colors/colors_picker.asp
+
+Line 21 "FontName" "Your Font" can be changed to known font. 
+
+Line 22 FontSize: NumberValue, Can be changed to
+corresponding number, best to keep value size between 12 and 18 due to widget size limits. 
+ 
+Note - Fact length can sometimes vary with Fontsize
