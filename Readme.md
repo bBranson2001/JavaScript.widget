@@ -61,4 +61,4 @@ If your problem isn’t listed here or these solutions don’t work, please open
 
 License
 
-This project is open-sourced under the MIT License. See the LICENSE file for more details.
+This project is open-sourced under the GNU General Public License. See the LICENSE file for more details.
